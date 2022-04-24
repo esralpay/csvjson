@@ -1,0 +1,424 @@
+{
+    "Sosyal Durum (1755)": {
+        "Sosyal İlişkiler (699)": {
+            "Aile içi İlişkiler (299)": {
+                "Destekler (59)": {
+                    "Eş desteği": 4,
+                    "Evlat desteği": 10,
+                    "Ebevyn desteği": 35,
+                    "Sıradan davranış ": 10
+                },
+                "Aile İçi Genel Sorunlar (129)": {
+                    "Çocuklarla anlaşamama": 5,
+                    "Omuzlara aşırı yük binme": 3,
+                    "Çocuklara yardımcı olamama": 3,
+                    "İletişim sorunu": 9,
+                    "Ailenin bireyi çalıştırmak istememesi": 8,
+                    "İş baskısı": 31,
+                    "Uzun süre evde kalma nedeniyle tartışmalar": 13,
+                    "Aile içi psikolojik sorunlar": 5,
+                    "Aile içinda yalnızlık hissi": 28,
+                    "Destek yoksunluğu": 24
+                },
+                "İşsizlikle Gelen Aile İçi Gerilimler (111)": {
+                    "Alıngınlıkla başlayan tartışmalar": 9,
+                    "Rol değişimi ile başlayan tartışmalar": 4,
+                    "Sevgi ve saygının  yitirilmesi": 12,
+                    "Evde kapalı kalma nedeniyle tartışmalar": 9,
+                    "Maddiyat nedeniyle kırgınlıklar/tartışmalar": 31,
+                    "Aile içinde ciddiye alınmama/müdahale altında kalma": 10,
+                    "İnanmama/Anlamama": 10,
+                    "Aileye yük olma hissi/Aileye destek olamama hissi": 26
+                }
+            },
+            "Sosyal Çevre İlişkileri (277)": {
+                "Akrabalık İlişkileri (57)": {
+                    "Kopuk akraba ilişkileri": 37,
+                    "Samimiyetsiz ve dışlayan akraba tutumları": 12,
+                    "Destek veren akrabalar": 8
+                },
+                "Arkadaşlık İlişkileri (139)": {
+                    "Arkadaşlardan ekonomik nedenlerden kopma": 55,
+                    "Sınırlı arkadaş çevresi ve ilişki düzeyi": 39,
+                    "Kendi engel türünden oluşan arkadaş ortamı": 20,
+                    "Güvensizlik": 19,
+                    "Arkadaşsızlık": 6
+                },
+                "Komşuluk İlişkileri (81)": {
+                    "Zayıflayan komşuluk ilişkileri": 32,
+                    "Komşusuzluk": 23,
+                    "İyi komşuluk ilişkileri": 15,
+                    "Engelliye hitap etmeyen komşuluk ilişkileri": 9,
+                    "Sorunlu komşuluk ilişkileri": 2
+                }
+            },
+            "Toplumun Tutumu (123)": {
+                "Ostrazm Temelli Dışlanma  (76)": {
+                    "Dolaylı Damgalama (67)": {
+                        "Acıma/küçümseme": 22,
+                        "Dikkatlıce süzülme": 15,
+                        "Dışlayıcı bir dilin kullanımı": 17,
+                        "Görmezden gelinme": 13
+                    },
+                    "Çevresel Damgalama (9)": {
+                        "Görmezden gelinme": 9
+                    }
+                },
+                "Rededilme Temelli Dışlanma (31)": {
+                    "Dolaysız Damgalama  (8)": {
+                        "İnciti tavır ve sözler": 4,
+                        "Alay etme": 4
+                    },
+                    "Ayrımcılık (23)": {
+                        "İkinci sınıf insan muammelesi": 8,
+                        "Baskılanma": 9,
+                        "Dışlanma": 6
+                    }
+                },
+                "Olumlu Yaklaşım (16)": {
+                    "Toplumda engellileri içine alan bir kesimin varlığı (7)": {
+                        "Dışlanma": 7
+                    },
+                    "Toplumun engelliler lehine dönüşüm içerisinde olması  (9)": {
+                        "Dışlanma": 9
+                    }
+                }
+            }
+        },
+        "Sosyal Faaliyetler (620)": {
+            "Gündelik Faaliyetler (292)": {
+                " Aktiviteler (138)": {
+                    "Dernekte zaman geçirme (11)": {
+                        "Dışlanma": 11
+                    },
+                    "İnternette zaman geçirme (57)": {
+                        "Dışlanma": 57
+                    },
+                    "Daha çok evde zaman geçirme (36)": {
+                        "Dışlanma": 36
+                    },
+                    "Sportif faaliyetler (15)": {
+                        "Dışlanma": 15
+                    },
+                    "Masrafsız aktivite tercihi (19)": {
+                        "Dışlanma": 19
+                    }
+                },
+                "Aktivitelere Katılım Bariyerleri (154)": {
+                    "Kafe/tiyatro/Sinema faaliyetlerinin baskılanması (105)": {
+                        "Dışlanma": 105
+                    },
+                    "Toplu aktivitelere dahil olmama isteği (22)": {
+                        "Dışlanma": 22
+                    },
+                    "Evden dışarı çıkamama nedeniyle sosyal aktivetelerden mahrumiyet (7)": {
+                        "Dışlanma": 7
+                    },
+                    "Pandeminin aktiviteleri kısıtlaması (20)": {
+                        "Dışlanma": 20
+                    }
+                }
+            },
+            "Siyasi ve Temsil Faaliyetleri (216)": {
+                "Siyasi Partilere Yönelik Tutumlar (57)": {
+                    "Siyasi partilerden uzak kalma eğilimi (38)": {
+                        "Dışlanma": 38
+                    },
+                    "Etkin siyaset (2)": {
+                        "Dışlanma": 2
+                    },
+                    "Siyasi partilere istihdam şansı sebebiyle pasif üyelik (17)": {
+                        "Dışlanma": 17
+                    }
+                },
+                "Temsiliyet Sorunsalı (83)": {
+                    "Yetersiz temsil (51)": {
+                        "Dışlanma": 51
+                    },
+                    "Gündeme seçim zamanı ya da engelliler gününde gelme (11)": {
+                        "Dışlanma": 11
+                    },
+                    "Mecliste engelli vekillerin azlığı (10)": {
+                        "Dışlanma": 10
+                    },
+                    "Engelli partisinin olmayışı (5)": {
+                        "Dışlanma": 5
+                    },
+                    "Engelli meclisinin ve derneklerin temsiliyet zayıflığı (4)": {
+                        "Dışlanma": 4
+                    },
+                    "Engelli bürokratların azlığı (2)": {
+                        "Dışlanma": 2
+                    }
+                },
+                "Oy Kullanma Sorunu (22)": {
+                    "Erişim sorunu (7)": {
+                        "Dışlanma": 7
+                    },
+                    "Oy kullanma noktasında ailenin karar vermesi (1)": {
+                        "Dışlanma": 1
+                    },
+                    "Bağımsız oy kullanma sorunu (9)": {
+                        "Dışlanma": 9
+                    },
+                    "Parti programlarını anlamama (5)": {
+                        "Dışlanma": 5
+                    }
+                },
+                "Engelli Haklarından Yararlanamama (54)": {
+                    "Engellilerin haklarını bilmemesi (25)": {
+                        "Dışlanma": 25
+                    },
+                    "Toplumun bilinçsizliği (24)": {
+                        "Dışlanma": 24
+                    },
+                    "Sorun merciindeki noksanlıklar (3)": {
+                        "Dışlanma": 3
+                    },
+                    "Engelli statüsü ayar noktaları sorunu (2)": {
+                        "Dışlanma": 2
+                    }
+                }
+            },
+            "Sosyal Faaliyetler ve Çevre (112)": {
+                "Niğde'nin Olumsuz Yönleri (73)": {
+                    "Yeterli düzeyde iş sahasının olmayışı (35)": {
+                        "Dışlanma": 35
+                    },
+                    "Alış veriş ve eğlence merkezlerinin olmayışı  (16)": {
+                        "Dışlanma": 16
+                    },
+                    "Park ve bahçe alanlarının yetersizliği (10)": {
+                        "Dışlanma": 10
+                    },
+                    "Ulaşım ve erişim sorunu (5)": {
+                        "Dışlanma": 5
+                    },
+                    "Kota eşik değer sorunu (4)": {
+                        "Dışlanma": 4
+                    },
+                    "Ticaret hacminin düşüklüğü (3)": {
+                        "Dışlanma": 3
+                    }
+                },
+                "Niğde'nin Olumlu Yönleri (39)": {
+                    "Ulaşım kolaylığı (26)": {
+                        "Dışlanma": 26
+                    },
+                    "Sakin şehir (9)": {
+                        "Dışlanma": 9
+                    },
+                    "Ucuz kent (4)": {
+                        "Dışlanma": 4
+                    }
+                }
+            }
+        },
+        "Sosyal Yaşamda Kamusal Hizmet Etkinlikleri (436)": {
+            "Kamu Hizmetleri Sorun Alanları (436)": {
+                "Sağlık Hizmetleri (111)": {
+                    "Engelli raporlarına güvensizlik (38)": {
+                        "Dışlanma": 38
+                    },
+                    "Sağlık maliyeti (30)": {
+                        "Sosyal güvenceden mahrumiyet": 12,
+                        "İlaç/tedavi masraflarında maddi sorun": 13,
+                        "Sağlık hizmetine erişim maliyeti": 5
+                    },
+                    "Yeterli uzman doktorun/polikinliklerin bulunmaması (10)": {
+                        "Sağlık hizmetine erişim maliyeti": 10
+                    },
+                    "İletişim sorunu (11)": {
+                        "Sağlık hizmetine erişim maliyeti": 11
+                    },
+                    "Engelli öncelliğine uyulmaması (7)": {
+                        "Sağlık hizmetine erişim maliyeti": 7
+                    },
+                    "Personelin sert tavrı (5)": {
+                        "Sağlık hizmetine erişim maliyeti": 5
+                    },
+                    "Donanım yetersizliği (3)": {
+                        "Sağlık hizmetine erişim maliyeti": 3
+                    },
+                    "Randevu sistemini kullanamama (3)": {
+                        "Sağlık hizmetine erişim maliyeti": 3
+                    },
+                    "Hasta bakım ve destek hizmetlerinin yetersizliği (2)": {
+                        "Sağlık hizmetine erişim maliyeti": 2
+                    },
+                    "Bilgiye erişim sorunu (2)": {
+                        "Sağlık hizmetine erişim maliyeti": 2
+                    }
+                },
+                "Eğitim Hizmetleri (175)": {
+                    "Zorlaştırıcı Etmenler (104)": {
+                        "Kiisel tercih bağlamında eğitimi bırakma": 14,
+                        "Akranlarla anlaşamama/dışlanma /zorbalık": 13,
+                        "Aile desteğinden yoksunluk": 3,
+                        "Ulaşım sorunu": 14,
+                        "Evrensel tasarım sorunu": 8,
+                        "Ekonomik sebeplerden dolayı çocukların eğitim sorunu": 9,
+                        "Ciddi anlamda yetersiz eğitim": 10,
+                        "Öğretmenlerin olumsuz tutum ve davranışları": 9,
+                        "Ailenin bireyi okutmak istememesi": 8,
+                        "Sınav sistemindeki dezavantajlar nedeniyle okula devam edememe": 3,
+                        "Öğretmenlerle iletişim güçlüğü": 2,
+                        "Dersleri anlayamama": 4,
+                        "Aktivitelerden kısıtlanma": 2,
+                        "Tedavi nedeniyle eğitimden kopma": 3,
+                        "Aileye karşı özlem ": 2
+                    },
+                    "Kolaylaştırıcı Etmenler (71)": {
+                        "Kaynaşma": 2,
+                        "Akran desteği ": 15,
+                        "Öğretmen desteği": 26,
+                        "Aile desteği ": 14,
+                        "Akranlarla birarada olmaktan alınan haz": 11,
+                        "Bağımsız yaşam kabiliyeti kazanımı": 3
+                    }
+                },
+                "Banka ve Posthane Hizmetleri (44)": {
+                    "Engelli öncelliğinin uygulanmaması (19)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 19
+                    },
+                    "İletişim sorunu (8)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 8
+                    },
+                    "Evrensel tasarım eksikliği nedeniyle erişim sorunu (7)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 7
+                    },
+                    "Ayakta bekleme sorunu (5)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 5
+                    },
+                    "İmza-şahit sorunu (4)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 4
+                    },
+                    "Kredi kullanım sorunu (1)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 1
+                    }
+                },
+                "İŞKUR Hizmetleri (106)": {
+                    "Danışmanlık ve eşleştirme hizmetlerinin yetersizliği (42)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 42
+                    },
+                    "İletişim sorunu (17)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 17
+                    },
+                    "Personelin ilgisiz tavrı (12)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 12
+                    },
+                    "Personelin yeterli bilgi ve donanıma sahip olmaması (8)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 8
+                    },
+                    "Hizmet binasının uzak olması sebebiyle ulaşım/erişim sorunu (7)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 7
+                    },
+                    "Çağrı hizmetlerinde yaşanan aksaklıklar (7)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 7
+                    },
+                    "Engellilere yönelik özel bir ilginin olmayışı (3)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 3
+                    },
+                    "Eşleştirme hizmetlerinden sonra takip yetersizliği (6)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 6
+                    },
+                    "Engelli statüsü dışında tutulma sorunu (2)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 2
+                    },
+                    "Mesleki eğitim kurslarının olmaması (2)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 2
+                    }
+                }
+            }
+        }
+    },
+    "Ekonomik Durum (580)": {
+        "Ekonomik Yaşam (580)": {
+            "Ekonomik Yaşama ilişkin Göstergeler (580)": {
+                "Mahalle/Semtin Ekonomik Durumu (57)": {
+                    "Aşırı yüksek gelirli bir mahalle/semt (2)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 2
+                    },
+                    "Yüksek gelirli bir mahalle/semt (4)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 4
+                    },
+                    "Orta üstü gelirli bir mahalle/semt (2)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 2
+                    },
+                    "Orta gelirli bir mahalle/semt (30)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 30
+                    },
+                    "Dar gelirli bir mahalle/semt (13)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 13
+                    },
+                    "Köy/Köy vari bir mahalle/semt (6)": {
+                        "Bağımsız yaşam kabiliyeti kazanımı": 6
+                    }
+                },
+                "Hanenin Ekonomik Durumu (160)": {
+                    "Algılanan Ekonomik Durum (57)": {
+                        " İyi düzeyde ekonomik durum": 3,
+                        "Orta düzeyde ekonomik durum": 30,
+                        "Düşük düzeyde ekonomik durum": 24
+                    },
+                    "Borçlar (50)": {
+                        "Kredi borcu": 18,
+                        "Elden alınan borçlar": 15,
+                        "Ödenmemiş fatura borçları": 5,
+                        "İcralık borçlar": 8,
+                        "Düğün borçları": 4
+                    },
+                    "Maddi Bir Gösterge Olarak Evin Yaşam Durumu (53)": {
+                        "Isınma problemi": 26,
+                        "Yeterli eşyanın olmayışı": 12,
+                        "Evinden memnun olma": 15
+                    }
+                },
+                "Engelli Bireyin Ekonomik Durumu (363)": {
+                    "Sıkıntı yaşamama (5)": {
+                        "Evinden memnun olma": 5
+                    },
+                    "Düşük kişisel harcama miktarı (43)": {
+                        "Evinden memnun olma": 43
+                    },
+                    "Aileden maddi destek alma (20)": {
+                        "Evinden memnun olma": 20
+                    },
+                    "Borçlanma (9)": {
+                        "Evinden memnun olma": 9
+                    },
+                    "Tasarrufların erimesi (2)": {
+                        "Evinden memnun olma": 2
+                    },
+                    "Engelli aylığı ile idame etme (3)": {
+                        "Evinden memnun olma": 3
+                    },
+                    "Gündelik işlerde çalışma (4)": {
+                        "Evinden memnun olma": 4
+                    },
+                    "Tüketimden feragat (125)": {
+                        "İhtiyaçlara ulaşamama": 34,
+                        "Beslenmeden feragat": 21,
+                        "Sabit giderlerin karşılanamaması": 18,
+                        "Kişisel harcamalardan feragat": 14,
+                        "Isınmadan feregat": 12,
+                        "Aktivetelerden feragat": 10,
+                        "Giyim kuşamdan feragat": 7,
+                        "Sağlık harcamalarından feragat": 5,
+                        "Eğtitim harcamalarından feragat": 4
+                    },
+                    "Sosyal Yardımlardan Serzeniş (152)": {
+                        "Hakediş yöntemine itiraz": 44,
+                        "Adil olmamasına yönelik itiraz": 33,
+                        "Yetersiz olması": 31,
+                        "Sosyal yardımlar yerine istihdamda olma isteği": 20,
+                        "İstihdama dahil olumduğunda sosyal yardımların kesilmesine yönelik itiraz": 14,
+                        "Damgalanma": 5,
+                        "Bakım aylıklarının engellilin kendisine verilmesi ": 3,
+                        "Sosyal yardımların güvencesi yönü": 2
+                    }
+                }
+            }
+        }
+    }
+}
